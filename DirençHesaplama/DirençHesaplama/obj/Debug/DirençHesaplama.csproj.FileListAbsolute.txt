@@ -1,0 +1,41 @@
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe.config
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.pdb
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Form1.resources
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Properties.Resources.resources
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.exe
+C:\Users\user\source\repos\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.pdb
+E:\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe.config
+E:\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe
+E:\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.pdb
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csprojAssemblyReference.cache
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Form1.resources
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Properties.Resources.resources
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.GenerateResource.cache
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.CoreCompileInputs.cache
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.exe
+E:\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.pdb
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe.config
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.pdb
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csprojAssemblyReference.cache
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Form1.resources
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Properties.Resources.resources
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.GenerateResource.cache
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.CoreCompileInputs.cache
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.exe
+C:\Program Files\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.pdb
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe.config
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.exe
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\bin\Debug\DirençHesaplama.pdb
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Form1.resources
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.Properties.Resources.resources
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.GenerateResource.cache
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.CoreCompileInputs.cache
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.exe
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.pdb
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.AssemblyReference.cache
+D:\Burak\Çalışmalarım\Programlama\DirençHesaplama\DirençHesaplama\obj\Debug\DirençHesaplama.csproj.SuggestedBindingRedirects.cache
